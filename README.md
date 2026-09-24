@@ -1,2 +1,2 @@
 # aula06
-Este es mi primer repositorio en github
+Repositorio de github de la fp
